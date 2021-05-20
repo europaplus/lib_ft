@@ -1,4 +1,4 @@
-# libft
+# lib_ft
 Reproduction of the C standard library functions used for working with C-style strings and lists.
 ## Installation
 
